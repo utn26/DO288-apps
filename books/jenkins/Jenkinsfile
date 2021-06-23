@@ -11,8 +11,8 @@ pipeline {
 
     environment {
         //TODO: Edit these vars as per your env
-        DEV_PROJECT = "utn26-books-dev"
-        STAGE_PROJECT = "utn26-books-stage"
+        DEV_PROJECT = "pvtnga-books-dev"
+        STAGE_PROJECT = "pvtnga-books-stage"
         APP_GIT_URL = "https://github.com/utn26/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com"
  	// DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
